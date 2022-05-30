@@ -9,4 +9,5 @@ para reforçar o conhecimento e conhecer novas técnicas.
         <li>Rotas</li>
         <li>Métodos HTTP</li>
         <li>Handlebars</li>
+        <li>MongoDB</li>
     </ul>

@@ -5,4 +5,8 @@ para reforçar o conhecimento e conhecer novas técnicas.
     <ul>
         <li>Calculadora (Testando módulos)</li>
         <li>Uso do Express</li>
+        <li>Uso do MySQL</li>
+        <li>Rotas</li>
+        <li>Métodos HTTP</li>
+        <li>Handlebars</li>
     </ul>

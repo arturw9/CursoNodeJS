@@ -42,6 +42,6 @@ app.get("/deletar/:id", function(req, res){
     })
 })
 
-app.listen(8081, function(){
+app.listen(8086, function(){
     console.log("O Servidor está rodando!")
 });
